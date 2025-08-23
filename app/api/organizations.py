@@ -95,8 +95,8 @@ async def get_organization(
     response_model=OrganizationOut,
     summary="Создать организацию",
     description="""
-Создать новую организацию.    
-    
+Создать новую организацию.
+
 Аргументы тела запроса:
 - name (str): Название организацию.
 - phones (List[str]): Список контактных телефонов.
