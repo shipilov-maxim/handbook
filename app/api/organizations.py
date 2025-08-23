@@ -10,7 +10,7 @@ from app.crud.organizations import OrganizationCRUD
 
 router = APIRouter(
     prefix="/organizations",
-    tags=["Организации"]
+    tags=["Организацыыыы"]
 )
 
 
